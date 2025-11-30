@@ -1,2 +1,2 @@
-# Menu-Lanchonete
+# escolha-caso
 Exercício Menu de lanchonete.  
